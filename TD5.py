@@ -31,7 +31,6 @@ ligne1 = can.create_line(0,200,400,200, fill='red')
 ligne2= can.create_line(200,0,200,400, fill='red')
 
 
-## Action si "f" est pressé
 
 Nb_tirs = 0  # variable globale
 total = 0
