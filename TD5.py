@@ -92,14 +92,3 @@ Quitter = ttk.Button(window, text="Quitter", command=root.destroy).grid(row = 1,
 
 
 root.mainloop()
-
-"""
-
-root = Tk()
-root.geometry('600x400')
-window = Frame(root)
-window.grid()
-but = Button(window,text="Dis bonjour", command=bonjour)
-but.grid(row=1,column=1)
-root.mainloop()
-"""
